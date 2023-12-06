@@ -1,6 +1,5 @@
 {
-  projectData: [
-  {
+  projectData: [{
     category: "Innovative Education and Skill Development",
     data: [
       {dept: "KSOP", teamId: "1245", winner: "SNEHA GAUTAM (2125BPH1084)"},
@@ -73,10 +72,8 @@
       {dept: "AS", teamId: "NA", winner: "NA"},
       {dept: "MCA", teamId: "1397", winner: "ASHISH (2224MCA1024)"},
     ],
-  },
-],
-posterData: [
-  {
+  }],
+  posterData: [{
     category: "Innovative Education and Skill Development",
     data: [
       {dept: "KSOP", teamId: "1877", winner: "AYUSH KASHYAP (2024BPH1096)"},
@@ -162,6 +159,5 @@ posterData: [
       {dept: "AS", teamId: "NA", winner: "NA"},
       {dept: "MCA", teamId: "2408", winner: "CHAITIKA BHATNAGAR (2325MCA1106)"},
     ],
-  },
-]
+  }]
 }
